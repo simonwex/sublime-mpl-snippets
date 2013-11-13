@@ -1,4 +1,4 @@
-sublime-mpl-snippets
-====================
+Sublime Text 2 Mozilla Public License Snippets
+==============================================
 
-Some handy licensing snippets for Sublime Text 2
+Snippets to add the Mozilla Public License header text in Sublime Text 2.
